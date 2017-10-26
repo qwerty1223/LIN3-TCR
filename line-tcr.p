@@ -10,10 +10,6 @@ import time,random,sys,json,codecs,threading,glob,re
 #kk.loginResult()
 
 
-ki = kk = kc = cl
-
-
-
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
